@@ -1,0 +1,4 @@
+DB: crud_uth
+
+usuario: adminusuario
+pass: 1234556
